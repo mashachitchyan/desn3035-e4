@@ -1,0 +1,32 @@
+{
+  "name": "desn3035-e4",
+  "version": "1.0.0",
+  "description": "Exercise 4 for desn 3035",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashachitchyan/desn3035-e4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashachitchyan/desn3035-e4/issues"
+  },
+  "homepage": "https://github.com/mashachitchyan/desn3035-e4#readme",
+  "dependencies": {
+    "next": "^14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.7.5",
+    "@types/react": "18.3.11",
+    "typescript": "5.6.3"
+  }
+}
